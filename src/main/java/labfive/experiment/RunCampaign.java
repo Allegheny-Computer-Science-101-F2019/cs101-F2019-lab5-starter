@@ -9,6 +9,8 @@ import java.util.Random;
 
 public class RunCampaign implements Campaign {
 
+  // TODO: Make sure that you understand why these constants have these values
+
   private static final int INPUT_SIZE_START = 250;
 
   private static final int INPUT_GROWTH_FACTOR = 2;

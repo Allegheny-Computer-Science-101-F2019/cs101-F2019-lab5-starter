@@ -3,6 +3,8 @@ package labfive.experiment;
 import labfive.data.ResultsTable;
 import labfive.sort.Sorter;
 
+// TODO: Make sure that you understand the purpose of this interface
+
 /**
  * A Campaign interface used to run an experiment.
  *
