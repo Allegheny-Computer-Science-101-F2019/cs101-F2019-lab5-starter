@@ -5,6 +5,8 @@ import labfive.sort.Sorter;
 
 import java.util.Random;
 
+// TODO: Add all of the needed comments to this file
+
 public class RunCampaign implements Campaign {
 
   private static final int INPUT_SIZE_START = 250;
