@@ -10,6 +10,7 @@ import labfive.sort.Sorter;
 public class Experiment {
 
   public static void main(String[] args) {
+    // TODO: Please note that this program may run infinitely before you add required code
     RunCampaign runSorterCampaign = new RunCampaign();
     // Create a BubbleSort and run it in a campaign
     BubbleSort bubbleSort = new BubbleSort();
